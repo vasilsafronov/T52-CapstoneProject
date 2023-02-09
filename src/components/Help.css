@@ -1,0 +1,8 @@
+.help-component {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    height: 35%;
+    display: flex;
+    align-items: center;
+    margin: 10px 40px 10px 40px;
+}
